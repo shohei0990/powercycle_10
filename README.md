@@ -8,9 +8,9 @@ Zwift, an online cycling application, receives information about your pedaling p
 
 https://github-com.translate.goog/Tschucker/ArduinoBLE-Cycle-Power-Service?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=nui,op
 
-#DeviceTool
+# DeviceTool
 - ESP32
 - Zwift(iOS_app)
 
-#Blog Post Details
+# Blog Post Details
 https://qiita.com/sho_hei_0990/items/3174dae6a84e40f16854
